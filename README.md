@@ -14,7 +14,7 @@ data section / 100163CC address
 
 5 functions calls gethostbyname
 
-![Alt text](PHOTOS/3.png)
+![Alt text](photos/3.png)
 
 ## Q4
 
